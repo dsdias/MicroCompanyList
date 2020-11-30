@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MicroList</string>
+    <string-array name="tipoServico">
+        <item>Alimentacao</item>
+        <item>Farmacia</item>
+        <item>Lojas Roupas</item>>
+        <item>Mercado</item>
+        <item>Pet Shop</item>
+        <item>Servico em Gerais</item>
+        <item>Outros</item>
+    </string-array>
+</resources>
